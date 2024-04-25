@@ -5,7 +5,6 @@
 # HOST: 2
 # HOST-KEYWORD: 1
 # HOST-SUFFIX: 22
-# IP-ASN: 1
 # IP-CIDR: 2
 # TOTAL: 28
 HOST,browser-intake-datadoghq.com,OpenAI
